@@ -1,0 +1,40 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 328 669" width="100" height="204">
+	<title>Group 1000001758-svg</title>
+	<style>
+		.s0 { fill: none;stroke: #06ffff;stroke-width: 3 } 
+		.s1 { fill: none;stroke: #06ffff;stroke-width: 3.2 } 
+		.s2 { fill: #ffffff } 
+		.s3 { fill: #000000;stroke: #ffffff;stroke-width: .5 } 
+	</style>
+	<g id="Папка 1">
+		<path id="Layer" class="s0" d="m164.7 22.8c78.4 0 141.9 63.5 141.9 141.9l0.1 314.8c0 78.3-63.5 141.9-141.8 141.9-78.4 0-141.9-63.5-141.9-141.8l-0.1-314.9c0-78.3 63.5-141.9 141.8-141.9z"/>
+		<path id="Layer" class="s1" d="m164.4 2.5c88.8 0 160.9 72 160.9 160.8l0.1 317.5c0 88.9-72 160.9-160.9 160.9-88.8 0-160.8-72-160.8-160.8l-0.1-317.5c0-88.8 72-160.9 160.8-160.9z"/>
+		<path id="Layer" class="s0" d="m164 45.9c67.2 0 121.7 54.5 121.7 121.7l0.1 309c0 67.2-54.5 121.7-121.7 121.7-67.2 0-121.6-54.5-121.6-121.7l-0.1-309c0-67.2 54.4-121.6 121.6-121.7z"/>
+		<path id="Layer" class="s0" d="m163.8 68c56.3 0 102 45.6 102 102l0.1 302.8c0 56.3-45.7 102-102 102-56.4 0-102.1-45.7-102.1-102l-0.1-302.8c0-56.3 45.7-102 102.1-102z"/>
+		<path id="Layer" class="s0" d="m165.2 91c46.4 0 84.1 37.7 84.1 84.1l0.1 292.5c0 46.5-37.7 84.1-84.1 84.1-46.5 0-84.1-37.6-84.1-84.1l-0.1-292.4c0-46.5 37.6-84.2 84.1-84.2z"/>
+		<path id="Layer" class="s0" d="m81.2 469.7v200.8"/>
+		<path id="Layer" class="s0" d="m3.6 469.7l0.1 200.8"/>
+		<path id="Layer" class="s0" d="m61.8 469.7v200.8"/>
+		<path id="Layer" class="s0" d="m42.5 469.7v200.8"/>
+		<path id="Layer" class="s0" d="m23 469.7v200.8"/>
+		<path id="Layer" class="s0" d="m80.8 174.5h-78"/>
+		<path id="Layer" class="s2" d="m170.8 561v10.2h-6.3v-10.2z"/>
+		<path id="Layer" class="s3" d="m170.7 571.3v10h-6.1v-10z"/>
+		<path id="Layer" class="s3" d="m170.7 551v9.9h-6.1v-9.9z"/>
+		<path id="Layer" class="s2" d="m170.8 581.4v10.2h-6.3v-10.2z"/>
+		<path id="Layer" class="s2" d="m170.8 601.8v10.1h-6.3v-10.1z"/>
+		<path id="Layer" class="s2" d="m170.8 622.1v10.2h-6.3v-10.2z"/>
+		<path id="Layer" class="s3" d="m170.7 591.7v9.9l-6.1 0.1v-10z"/>
+		<path id="Layer" class="s3" d="m170.7 612v10h-6v-10z"/>
+		<path id="Layer" class="s3" d="m170.7 632.4v10h-6v-10z"/>
+		<path id="Layer" class="s2" d="m164.5 550.9v10.1l-6.2 0.1v-10.2z"/>
+		<path id="Layer" class="s3" d="m164.4 561.2v9.9h-6v-9.9z"/>
+		<path id="Layer" class="s2" d="m164.5 571.2v10.2h-6.2v-10.2z"/>
+		<path id="Layer" class="s2" d="m164.5 591.6v10.2h-6.2v-10.2z"/>
+		<path id="Layer" class="s2" d="m164.5 611.9v10.2h-6.2v-10.2z"/>
+		<path id="Layer" class="s2" d="m164.5 632.3v10.2h-6.2v-10.2z"/>
+		<path id="Layer" class="s3" d="m164.4 581.5v10h-6v-10z"/>
+		<path id="Layer" class="s3" d="m164.4 601.9v9.9h-6v-9.9z"/>
+		<path id="Layer" class="s3" d="m164.4 622.2v10h-6v-10z"/>
+	</g>
+</svg>

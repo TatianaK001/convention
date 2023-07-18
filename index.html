@@ -408,7 +408,7 @@
 </div>
 </div>
 </section>
-      <div class="map" id="map"></div>
+   <div class="map" id="map"></div>
         <!-- Footer-->
         <footer class="py-5 bg-dark">
             <div class="container px-4"><p class="m-0 text-center text-white">Все права защищены &copy; Convention Forise 2023</p></div>
@@ -417,14 +417,14 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
-        <script src="//api-maps.yandex.ru/2.1/?apikey=c1893694-3538-46a6-a3b4-0383bd4dab88&lang=ru_RU&load=Map,Placemark,control.ZoomControl"
+    <script src="//api-maps.yandex.ru/2.1/?apikey=c1893694-3538-46a6-a3b4-0383bd4dab88&lang=ru_RU&load=Map,Placemark,control.ZoomControl"
         type="text/javascript"></script>
 <script>
     ymaps.ready(init);
 
     function init() {
         let Map = new ymaps.Map("map", {
-                center: [55.674019, 37.503865],
+                center: [55.783362, 37.560898],
                 zoom: 17,
                 controls: ['zoomControl'],
             }),
@@ -432,6 +432,7 @@
         Map.geoObjects.add(placemark);
     }
 </script>
+
     </body>
 </html>
 

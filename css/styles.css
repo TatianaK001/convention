@@ -11000,6 +11000,15 @@ h2, .h2{
   font-size: 1.875rem;
 }
 
+.btn-lg, .btn-group-lg > .btn { 
+  --bs-btn-font-size: 1.25rem;
+}
+
+.adress{
+    width: 100%;
+    padding: 13px 30px 13px 30px;
+}
+
 .number-block-2{
   font-size: 96px;
 }
